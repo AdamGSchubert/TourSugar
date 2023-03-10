@@ -1,0 +1,34 @@
+/* .marquee{
+    /* justify-content: center;
+    border: 1px dotted goldenrod 
+} */
+.title{
+    margin: auto;
+}
+.subtitle{
+    text-align: center;
+    margin: auto;
+}
+.details {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+/* ul{
+    text-align: start;
+    margin: auto;
+} */
+.bookings{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin: auto;
+}
+li{
+    margin: .469%;
+}

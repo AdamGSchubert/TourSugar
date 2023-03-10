@@ -1,0 +1,27 @@
+venues
+    - accomodate 2 bands per night
+venue properties
+    -name
+    -address
+    -sq ft
+    -max occupancy
+
+bands
+    perform 1-2 acts every day
+band properties
+    -name
+    -number of members
+    -musical genre
+    -year formed 
+
+bookings
+    list at bottom of page that shows which band plays at what venue each night 
+    
+    include 
+        -band name
+        -venu name 
+        -date of bookings
+        ex: (rocket pumpkins) are playing at (the cellar moss) on (12/12/2021)
+
+
+        
